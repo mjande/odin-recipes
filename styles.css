@@ -1,0 +1,41 @@
+* {
+    font-family: Georgia, serif;
+}
+
+h1 {
+  color: white;
+  background-color: blue;
+  font-family: Georgia, serif;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.recipe-link {
+    color: blue;
+    font-family: Georgia, serif;
+}
+
+.heading {
+    font-size: 28px
+}
+
+.description {
+    background-color: green;
+    color: white;
+}
+
+.ingredients {
+    background-color: purple;
+    color: white;
+}
+
+.steps {
+    background-color: aqua;
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 500px
+}
